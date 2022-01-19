@@ -89,7 +89,7 @@ nav a:hover {
 
 .sidebar,
 .content {
-    height: 500px;
+    height: auto;
 }
 
 .sidebar {
@@ -113,9 +113,9 @@ footer {
     height: 70px;
     margin: 10px auto;
     color: black;
+    text-align: center;
 }
 
 footer span {
     color: red;
-    text-align: center;
 }
